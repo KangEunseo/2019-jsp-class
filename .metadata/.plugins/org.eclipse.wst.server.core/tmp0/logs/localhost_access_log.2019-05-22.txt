@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/May/2019:11:29:50 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/May/2019:11:29:50 +0900] "GET /BasicJSP/b06/bean/SimpleBean.jsp HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [22/May/2019:11:29:59 +0900] "GET /BasicJSP/WEB-INF/classes/b06/bean/SimpleBean.java HTTP/1.1" 404 181
+0:0:0:0:0:0:0:1 - - [22/May/2019:11:30:27 +0900] "GET /BasicJSP/b06/bean/SimpleBean.jsp HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [22/May/2019:11:38:03 +0900] "GET /BasicJSP/b06/bean/SimpleBean2.jsp HTTP/1.1" 200 149
+0:0:0:0:0:0:0:1 - - [22/May/2019:11:39:05 +0900] "GET /BasicJSP/b06/bean/SimpleBean2.jsp HTTP/1.1" 200 202

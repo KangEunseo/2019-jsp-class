@@ -1,0 +1,11 @@
+127.0.0.1 - - [23/May/2019:08:48:06 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/May/2019:08:48:09 +0900] "GET /BasicJSP/b06/bean/beanTestForm.jsp HTTP/1.1" 200 311
+0:0:0:0:0:0:0:1 - - [23/May/2019:08:48:15 +0900] "POST /BasicJSP/b06/bean/beanTestPro.jsp HTTP/1.1" 200 229
+0:0:0:0:0:0:0:1 - - [23/May/2019:08:55:03 +0900] "GET /BasicJSP/b06/bean/beanTestPro.jsp HTTP/1.1" 200 223
+0:0:0:0:0:0:0:1 - - [23/May/2019:08:55:12 +0900] "GET /BasicJSP/b06/bean/beanTestForm.jsp HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [23/May/2019:08:55:21 +0900] "POST /BasicJSP/b06/bean/beanTestPro.jsp HTTP/1.1" 200 232
+127.0.0.1 - - [23/May/2019:09:43:51 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/May/2019:09:43:52 +0900] "GET /BasicJSP/b06/bean/favoriteForm.jsp HTTP/1.1" 200 451
+0:0:0:0:0:0:0:1 - - [23/May/2019:09:44:07 +0900] "POST /BasicJSP/b06/bean/favoritePro.jsp HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [23/May/2019:09:44:21 +0900] "POST /BasicJSP/b06/bean/favoritePro.jsp HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [23/May/2019:10:02:55 +0900] "POST /BasicJSP/b06/bean/favoritePro.jsp HTTP/1.1" 404 -

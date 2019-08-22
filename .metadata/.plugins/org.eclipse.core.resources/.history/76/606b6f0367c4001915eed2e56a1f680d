@@ -1,0 +1,5 @@
+package jdbcbean;
+
+public class SimpleBean {
+
+}

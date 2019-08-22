@@ -1,0 +1,16 @@
+127.0.0.1 - - [08/May/2019:10:38:55 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:38:58 +0900] "GET /BasicJSP/04_imp/exceptionTest.jsp HTTP/1.1" 200 128
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:42:30 +0900] "GET /BasicJSP/04_imp/exception.jsp HTTP/1.1" 500 2744
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:42:39 +0900] "GET /BasicJSP/04_imp/exception.jsp HTTP/1.1" 500 2744
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:42:39 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:42:56 +0900] "GET /BasicJSP/04_imp/exception.jsp HTTP/1.1" 500 2744
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:43:06 +0900] "GET /BasicJSP/04_imp/exceptionTest.jsp HTTP/1.1" 500 275
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:43:22 +0900] "GET /BasicJSP/04_imp/exceptionTest.jsp HTTP/1.1" 500 275
+0:0:0:0:0:0:0:1 - - [08/May/2019:10:43:22 +0900] "GET /BasicJSP/04_imp/exceptionTest.jsp HTTP/1.1" 500 275
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:22:29 +0900] "GET /BasicJSP/05_ac/includeTest.jsp HTTP/1.1" 500 2900
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:23:09 +0900] "GET /BasicJSP/05_ac/includeTest.jsp HTTP/1.1" 500 2900
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:23:19 +0900] "GET /BasicJSP/05_ac/includeTestForm.jsp HTTP/1.1" 200 390
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:23:27 +0900] "POST /BasicJSP/05_ac/includeTest.jsp HTTP/1.1" 200 473
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:23:50 +0900] "GET /BasicJSP/05_ac/includeTestForm.jsp HTTP/1.1" 200 390
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:24:03 +0900] "POST /BasicJSP/05_ac/includeTest.jsp HTTP/1.1" 200 480
+0:0:0:0:0:0:0:1 - - [08/May/2019:12:41:25 +0900] "GET /BasicJSP/05_ac/includeTest2.jsp HTTP/1.1" 200 603
