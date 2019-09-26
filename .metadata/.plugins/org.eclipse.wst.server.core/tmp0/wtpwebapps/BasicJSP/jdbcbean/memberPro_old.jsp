@@ -3,14 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-<jsp:useBean id="test" class="jdbcbean.MemberBean"/>
+<jsp:useBean id="test" class="jdbcbean.MemberBean_2401"/>
 <jsp:setProperty name="test" property="*"/>
-
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body bgcolor= "#ffffcc">
+<% 	request.setCharacterEncoding("utf-8"); %>
 <div align="center">
 	<table width="600" border=1>
 		<tr>
